@@ -12,7 +12,7 @@
   "authors": [
     {
       "name": "Align Commerce",
-      "homepage": "https://github.com/aligncommerce/align-php-library/graphs/contributorss"
+      "homepage": "https://github.com/aligncommerce/align-php-library/graphs/contributors"
     }
   ],
   "require": {
@@ -22,6 +22,6 @@
     "ext-mbstring": "*"
   },
   "autoload": {
-    "classmap": ["lib/Stripe/"]
+    "classmap": ["lib/Align/"]
   }
 }
