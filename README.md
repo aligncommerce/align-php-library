@@ -1,14 +1,17 @@
 Align Commerce PHP Library
 ==========================
 
-
 Requirements :
 
 PHP 5.4 and later.
 
 Obtain the latest version :
 
-git clone https://github.com/aligncommerce/align-php-library.git
+	git clone https://github.com/aligncommerce/align-php-library.git
+
+To use the Library, add the following to your PHP Script:
+	
+	require_once("/path/lib/Align.php");
 
 Installation
 
