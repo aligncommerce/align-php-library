@@ -6,9 +6,9 @@ Requirements :
 
 PHP 5.4 and later.
 
-Registration :
+Obtain the latest version :
 
-Register account at https://aligncommerce.com/dashboard/.
+git clone https://github.com/aligncommerce/align-php-library.git
 
 Installation
 
