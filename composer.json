@@ -1,0 +1,27 @@
+{
+  "name": "aligncommerce/aligncommerce-php-lib",
+  "description": "Align Commerce PHP Library",
+  "keywords": [
+    "aligncommerce",
+    "bitcoin",
+    "api",
+    "payment process"
+  ],
+  "homepage": "https://aligncommerce.com/",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Align Commerce",
+      "homepage": "https://github.com/aligncommerce/align-php-library/graphs/contributorss"
+    }
+  ],
+  "require": {
+    "php": ">=5.4",
+    "ext-curl": "*",
+    "ext-json": "*",
+    "ext-mbstring": "*"
+  },
+  "autoload": {
+    "classmap": ["lib/Stripe/"]
+  }
+}
