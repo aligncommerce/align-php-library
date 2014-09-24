@@ -1,5 +1,8 @@
 Align Commerce PHP Library
 ==========================
+[![Latest Stable Version](https://poser.pugx.org/aligncommerce/aligncommerce-php-lib/v/stable.svg)](https://packagist.org/packages/aligncommerce/aligncommerce-php-lib) 
+[![Total Downloads](https://poser.pugx.org/aligncommerce/aligncommerce-php-lib/downloads.svg)](https://packagist.org/packages/aligncommerce/aligncommerce-php-lib) 
+[![Latest Unstable Version](https://poser.pugx.org/aligncommerce/aligncommerce-php-lib/v/unstable.svg)](https://packagist.org/packages/aligncommerce/aligncommerce-php-lib) [![License](https://poser.pugx.org/aligncommerce/aligncommerce-php-lib/license.svg)](https://packagist.org/packages/aligncommerce/aligncommerce-php-lib)
 
 Requirements :
 
