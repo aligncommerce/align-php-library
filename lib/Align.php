@@ -33,3 +33,4 @@ require(dirname(__FILE__) . '/Align/Session/Session.php');
 require(dirname(__FILE__) . '/Align/Scope/Products.php');
 require(dirname(__FILE__) . '/Align/Scope/Invoice.php');
 require(dirname(__FILE__) . '/Align/Scope/Buyer.php');
+require(dirname(__FILE__) . '/Align/Scope/Currency.php');
