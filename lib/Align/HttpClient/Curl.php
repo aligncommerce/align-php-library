@@ -237,6 +237,7 @@ class Curl {
     **/
     protected function set_request_options($url, $vars) {
         curl_setopt($this->request, CURLOPT_FOLLOWLOCATION, true);
+        curl_setopt($this->request, CURLOPT_SSL_VERIFYPEER, false);
         curl_setopt($this->request, CURLOPT_URL, $url);
         if (!empty($vars)) curl_setopt($this->request, CURLOPT_POSTFIELDS, http_build_query($vars));
         
